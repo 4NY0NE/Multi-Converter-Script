@@ -8,8 +8,8 @@
 #     Follow me on github: https://github.com/4NYONEx                                    
 # ======================================================#
 
-$ps1Path = Read-Host "Enter the full path of the PS1 file"
-$exePath = Read-Host "Enter the full path where the EXE will be saved"
+$ps1Path = Read-Host "Enter the full path of the PS1 file. (Example: .\path\script.ps1)"
+$exePath = Read-Host "Enter the full path where the EXE will be saved. (Example: .\path\script.exe)"
 
 if (-Not (Test-Path $ps1Path)) {
     Write-Host "Error: The PS1 file was not found!"
