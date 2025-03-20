@@ -15,7 +15,6 @@ This PowerShell script allows you to easily convert PowerShell .ps1 script files
 - Provide the desired location and name for the .exe file.
 - Wait for the conversion process to complete and check the output directory for your newly created .exe file.
 
-Important: The code has a rope of ChatGPT couse i'm not a god of PowerShell, i'm learning, remember!
 
 
 
@@ -36,4 +35,3 @@ Este script PowerShell permite que você converta facilmente arquivos de script 
 - Informe o local e o nome desejado para o arquivo .exe.
 - Aguarde o processo de conversão ser concluído e confira o diretório de saída para o seu novo arquivo .exe.
 
-Importante: O código teve a ajuda do ChatGPT porque não sou um Deus do PowerShell, estou aprendendo, lembre-se!
