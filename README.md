@@ -15,6 +15,7 @@ This PowerShell script allows you to easily convert PowerShell .ps1 script files
 - Provide the desired location and name for the .exe file.
 - Wait for the conversion process to complete and check the output directory for your newly created .exe file.
 
+Note: The code will give an error if you don't have ps2exe
 
 
 
@@ -35,3 +36,4 @@ Este script PowerShell permite que você converta facilmente arquivos de script 
 - Informe o local e o nome desejado para o arquivo .exe.
 - Aguarde o processo de conversão ser concluído e confira o diretório de saída para o seu novo arquivo .exe.
 
+Nota: O código irá dar erro se você não tiver o ps2exe
