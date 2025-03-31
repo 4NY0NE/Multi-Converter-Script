@@ -1,4 +1,4 @@
-# PS1 to EXE Converter Script 🔄💻
+# Multi Converter Script 🔄💻
 ### Description 📜
 This PowerShell script allows you to easily convert PowerShell .ps1 script files into standalone .exe executables! 🚀 Whether you're looking to distribute a PowerShell script to run on systems without PowerShell installed or simply want to compile your script into a more portable format, this script makes it quick and straightforward.
 
@@ -19,7 +19,7 @@ This PowerShell script allows you to easily convert PowerShell .ps1 script files
 
 
 
-# PS1 para EXE - Script de Conversão 🔄💻
+# Script de Multi Conversão 🔄💻
 ### Descrição 📜
 Este script PowerShell permite que você converta facilmente arquivos de script PowerShell .ps1 em executáveis autônomos .exe! 🚀 Se você deseja distribuir um script PowerShell para rodar em sistemas sem o PowerShell instalado ou simplesmente quer compilar seu script em um formato mais portátil, esse script facilita e torna o processo rápido.
 
